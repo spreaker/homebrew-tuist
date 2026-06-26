@@ -8,7 +8,7 @@ cask "tuist" do
     homepage "https://github.com/tuist/tuist"
 
     auto_updates true
-    conflicts_with formula: "tuist"
+    # conflicts_with formula: "tuist"
 
     app "Tuist.app"
 end
